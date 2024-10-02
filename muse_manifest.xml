@@ -1,0 +1,318 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="blog.fit-online.com" resolutions="1x" timestamp="1452344370173">
+  <folder name="css">
+    <file name="site_global.css" crc="137059290"/>
+    <file name="master_a-master.css" crc="3879281306" ref="my-hobby:user-interface:local-football:about-me:gallery:shirt-design:graphic-editing:index:features:stadium-adboard"/>
+    <file name="my-hobby.css" crc="4006728688" ref="my-hobby"/>
+    <file name="user-interface.css" crc="3786809566" ref="user-interface"/>
+    <file name="local-football.css" crc="144899403" ref="local-football"/>
+    <file name="about-me.css" crc="317193569" ref="about-me"/>
+    <file name="gallery.css" crc="4169361794" ref="gallery"/>
+    <file name="shirt-design.css" crc="331107950" ref="shirt-design"/>
+    <file name="graphic-editing.css" crc="421065108" ref="graphic-editing"/>
+    <file name="index.css" crc="3983112113" ref="index"/>
+    <file name="features.css" crc="3848899122" ref="features"/>
+    <file name="stadium-adboard.css" crc="3921173990" ref="stadium-adboard"/>
+  </folder>
+  <folder name="assets">
+    <file name="video-image.png" crc="290120224" seo="true" mt="1451815991000"/>
+    <file name="video.mp4" crc="3805685381" seo="true" mt="1450970185000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="webpro.js" crc="3803554875" ref="index:about-me:gallery"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:gallery"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:gallery"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:gallery"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="about-me:graphic-editing"/>
+    <file name="form_check.php" crc="437936672" ref="about-me"/>
+    <file name="form_process.php" crc="4261938016" ref="about-me"/>
+    <file name="recaptchalib.php" crc="385583985" ref="about-me"/>
+    <file name="form-u1161.php" crc="176903819" ref="about-me"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="about-me"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="211026726" ref="index"/>
+    <file name="browser.png" crc="3805486065" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="header.png" crc="3888897613" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="logo-u87.png" crc="15030554" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="logo-u87-r.png" crc="318331842" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="logo-u87-m.png" crc="93473277" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="u112-4.png" crc="90575961" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="u96-grad.png" crc="4051553209" ref="index"/>
+    <file name="u96-r-grad.png" crc="4190999783" ref="index"/>
+    <file name="u96-m-grad.png" crc="217218641" ref="index"/>
+    <file name="u98-4.png" crc="4050013844" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="u122-4.png" crc="156631892" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="u139-4.png" crc="212244273" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u538-grad.png" crc="4263738878" ref="index"/>
+    <file name="u538-r-grad.png" crc="171418008" ref="index"/>
+    <file name="u538-m-grad.png" crc="381799342" ref="index"/>
+    <file name="u152-4.png" crc="3820239855" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="u1554-grad.png" crc="3843339260" ref="index"/>
+    <file name="u1554-r-grad.png" crc="3781276156" ref="index"/>
+    <file name="u1554-m-grad.png" crc="387700463" ref="index"/>
+    <file name="u163-4.png" crc="3896020242" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="about me.jpg" crc="3864029527" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-me:gallery"/>
+    <file name="my hobby.jpg" crc="3902654660" seo="true" ref="index"/>
+    <file name="features.jpg" crc="362217448" seo="true" ref="index"/>
+    <file name="gallery.jpg" crc="4075125341" seo="true" ref="index"/>
+    <file name="about me-crop-u212.jpg" crc="4039456979" ref="index"/>
+    <file name="my hobby-crop-u237.jpg" crc="4136583638" ref="index"/>
+    <file name="features-crop-u251.jpg" crc="3791557151" ref="index"/>
+    <file name="gallery-crop-u265.jpg" crc="4060719177" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
+    <file name="u286-6.png" crc="4288026888" ref="index"/>
+    <file name="konami.png" crc="4135460311" ref="index"/>
+    <file name="fit online.png" crc="3909350488" ref="index"/>
+    <file name="pes production.png" crc="4112886460" ref="index"/>
+    <file name="winning eleven production.png" crc="516156908" ref="index"/>
+    <file name="pes 5.png" crc="429112690" ref="index"/>
+    <file name="we 9.png" crc="7113987" ref="index"/>
+    <file name="to the top.png" crc="382863946" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="adobe muse.png" crc="4108799364" ref="index:about-me:my-hobby:features:gallery:user-interface:stadium-adboard:shirt-design:local-football:graphic-editing"/>
+    <file name="facebook-u4478.png" crc="495502669" ref="index"/>
+    <file name="facebook-u4478-m.png" crc="30388035" ref="index"/>
+    <file name="google--u4485.png" crc="513433045" ref="index"/>
+    <file name="google--u4485-m.png" crc="4075918298" ref="index"/>
+    <file name="twitter-u4486.png" crc="4194185793" ref="index"/>
+    <file name="twitter-u4486-m.png" crc="4239516946" ref="index"/>
+    <file name="background.jpg" crc="3849072789" ref="about-me"/>
+    <file name="profile-u397.png" crc="126599068" ref="about-me"/>
+    <file name="biodata-u419.png" crc="463437646" ref="about-me"/>
+    <file name="u422-4.png" crc="222166731" ref="about-me"/>
+    <file name="u434-6.png" crc="403421887" ref="about-me"/>
+    <file name="u1148-r-grad.png" crc="4270401330" ref="about-me"/>
+    <file name="u1148-m-grad.png" crc="373645364" ref="about-me"/>
+    <file name="u1150.png" crc="3914564880" ref="about-me"/>
+    <file name="u1150-a.png" crc="3914564880" ref="about-me"/>
+    <file name="u1146.png" crc="4211823934" ref="about-me"/>
+    <file name="u1146-a.png" crc="4211823934" ref="about-me"/>
+    <file name="facebook.png" crc="4103409663" ref="about-me"/>
+    <file name="twitter.png" crc="4182322985" ref="about-me"/>
+    <file name="google-.png" crc="4032283427" ref="about-me"/>
+    <file name="u1166-17.png" crc="3853148584" ref="about-me"/>
+    <file name="u1166-17-r.png" crc="3775693749" ref="about-me"/>
+    <file name="u1166-17-m.png" crc="4177271367" ref="about-me"/>
+    <file name="u1166-17-fs.png" crc="377126311" ref="about-me"/>
+    <file name="recaptcharefresh.png" crc="249852327" ref="about-me"/>
+    <file name="recaptcharefreshrollover.jpg" crc="155564821" ref="about-me"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4225227046" ref="about-me"/>
+    <file name="recaptchahelp.png" crc="503944989" ref="about-me"/>
+    <file name="recaptchahelprollover.jpg" crc="3948161619" ref="about-me"/>
+    <file name="recaptchahelpmousedown.jpg" crc="47105717" ref="about-me"/>
+    <file name="facebook-u4528.png" crc="495502669" ref="about-me"/>
+    <file name="facebook-u4528-m.png" crc="30388035" ref="about-me"/>
+    <file name="google--u4529.png" crc="513433045" ref="about-me"/>
+    <file name="google--u4529-m.png" crc="4075918298" ref="about-me"/>
+    <file name="twitter-u4530.png" crc="4194185793" ref="about-me"/>
+    <file name="twitter-u4530-m.png" crc="4239516946" ref="about-me"/>
+    <file name="background2.jpg" crc="86452116" ref="my-hobby:user-interface:stadium-adboard:shirt-design"/>
+    <file name="u503-6.png" crc="4043228575" ref="my-hobby"/>
+    <file name="game graphic studio.png" crc="4195968059" ref="my-hobby"/>
+    <file name="u514-6.png" crc="3930173428" ref="my-hobby"/>
+    <file name="user interface.png" crc="456086519" ref="my-hobby:stadium-adboard:shirt-design"/>
+    <file name="shirt.png" crc="364244243" ref="my-hobby:user-interface:stadium-adboard"/>
+    <file name="stadium adboard.png" crc="4168545786" ref="my-hobby:user-interface:shirt-design"/>
+    <file name="facebook-u4536.png" crc="495502669" ref="my-hobby"/>
+    <file name="facebook-u4536-m.png" crc="30388035" ref="my-hobby"/>
+    <file name="google--u4537.png" crc="513433045" ref="my-hobby"/>
+    <file name="google--u4537-m.png" crc="4075918298" ref="my-hobby"/>
+    <file name="twitter-u4538.png" crc="4194185793" ref="my-hobby"/>
+    <file name="twitter-u4538-m.png" crc="4239516946" ref="my-hobby"/>
+    <file name="background.png" crc="508359393" ref="features:local-football:graphic-editing"/>
+    <file name="u1769-4.png" crc="6523470" ref="features"/>
+    <file name="support local football.png" crc="204143026" ref="features"/>
+    <file name="u679-6.png" crc="524010649" ref="features"/>
+    <file name="graphic editing.jpg" crc="208767081" ref="features:local-football"/>
+    <file name="local football.png" crc="3869673355" ref="features:graphic-editing"/>
+    <file name="facebook-u4568.png" crc="495502669" ref="features"/>
+    <file name="facebook-u4568-m.png" crc="30388035" ref="features"/>
+    <file name="google--u4569.png" crc="513433045" ref="features"/>
+    <file name="google--u4569-m.png" crc="4075918298" ref="features"/>
+    <file name="twitter-u4570.png" crc="4194185793" ref="features"/>
+    <file name="twitter-u4570-m.png" crc="4239516946" ref="features"/>
+    <file name="background2.png" crc="3923633158" ref="gallery"/>
+    <file name="u2832-4.png" crc="3958081311" ref="gallery"/>
+    <file name="main menu138x83.jpg" crc="276931242" seo="true" ref="gallery"/>
+    <file name="mode select138x83.jpg" crc="4021192824" seo="true" ref="gallery"/>
+    <file name="edit mode138x83.jpg" crc="3902940518" seo="true" ref="gallery"/>
+    <file name="car - qpr 1138x83.jpg" crc="151106984" seo="true" ref="gallery"/>
+    <file name="car - qpr 2138x83.jpg" crc="101580082" seo="true" ref="gallery"/>
+    <file name="car - qpr 3138x83.jpg" crc="480796396" seo="true" ref="gallery"/>
+    <file name="car - qpr 4138x83.png" crc="231447019" seo="true" ref="gallery"/>
+    <file name="car - qpr 5138x83.jpg" crc="4288507872" seo="true" ref="gallery"/>
+    <file name="car - qpr 6138x83.jpg" crc="4218684371" seo="true" ref="gallery"/>
+    <file name="car - qpr 7138x83.jpg" crc="319034601" seo="true" ref="gallery"/>
+    <file name="car - qpr 8138x83.jpg" crc="152682294" seo="true" ref="gallery"/>
+    <file name="mas - esp 1138x83.jpg" crc="451990310" seo="true" ref="gallery"/>
+    <file name="mas - esp 2138x83.jpg" crc="133533183" seo="true" ref="gallery"/>
+    <file name="mas - esp 3138x83.png" crc="429997338" seo="true" ref="gallery"/>
+    <file name="mas - esp 4138x83.jpg" crc="527131163" seo="true" ref="gallery"/>
+    <file name="mas - esp 5138x83.jpg" crc="420791572" seo="true" ref="gallery"/>
+    <file name="mas - esp 6138x83.jpg" crc="3763559238" seo="true" ref="gallery"/>
+    <file name="mas - esp 7138x83.jpg" crc="4149644032" seo="true" ref="gallery"/>
+    <file name="prk - jdt 1138x83.jpg" crc="475273069" seo="true" ref="gallery"/>
+    <file name="prk - jdt 2138x83.jpg" crc="3902928464" seo="true" ref="gallery"/>
+    <file name="prk - jdt 3138x83.png" crc="3860041234" seo="true" ref="gallery"/>
+    <file name="prk - jdt 4138x83.jpg" crc="79206090" seo="true" ref="gallery"/>
+    <file name="prk - jdt 5138x83.jpg" crc="3911070486" seo="true" ref="gallery"/>
+    <file name="prk - jdt 6138x83.jpg" crc="3854684726" seo="true" ref="gallery"/>
+    <file name="prk - jdt 7138x83.jpg" crc="4099149114" seo="true" ref="gallery"/>
+    <file name="prk - jdt 8138x83.jpg" crc="118691228" seo="true" ref="gallery"/>
+    <file name="n - argentina138x83.jpg" crc="108782993" seo="true" ref="gallery"/>
+    <file name="n - brazil138x83.jpg" crc="212847670" seo="true" ref="gallery"/>
+    <file name="n - england138x83.jpg" crc="3806161944" seo="true" ref="gallery"/>
+    <file name="n - germany138x83.png" crc="4202895310" seo="true" ref="gallery"/>
+    <file name="n - italy138x83.jpg" crc="227241343" seo="true" ref="gallery"/>
+    <file name="n - netherlands138x83.jpg" crc="4132465754" seo="true" ref="gallery"/>
+    <file name="n - portugal138x83.png" crc="4102263600" seo="true" ref="gallery"/>
+    <file name="n - spain138x83.jpg" crc="4018501306" seo="true" ref="gallery"/>
+    <file name="c - barcelona138x83.jpg" crc="146689171" seo="true" ref="gallery"/>
+    <file name="c - chelsea138x83.jpg" crc="4064095563" seo="true" ref="gallery"/>
+    <file name="c - liverpool138x83.jpg" crc="4012945125" seo="true" ref="gallery"/>
+    <file name="c - manchester city138x83.jpg" crc="65989075" seo="true" ref="gallery"/>
+    <file name="c - manchester united138x83.jpg" crc="359233371" seo="true" ref="gallery"/>
+    <file name="c - real madrid138x83.jpg" crc="3825442712" seo="true" ref="gallery"/>
+    <file name="c - roma138x83.jpg" crc="3954787066" seo="true" ref="gallery"/>
+    <file name="malaysia 1138x83.jpg" crc="4226050354" seo="true" ref="gallery"/>
+    <file name="malaysia 2138x83.jpg" crc="3835904547" seo="true" ref="gallery"/>
+    <file name="malaysia 3138x83.jpg" crc="3976218381" seo="true" ref="gallery"/>
+    <file name="malaysia 4138x83.jpg" crc="518868407" seo="true" ref="gallery"/>
+    <file name="malaysia 5138x83.jpg" crc="194588165" seo="true" ref="gallery"/>
+    <file name="malaysia 6138x83.jpg" crc="4199861087" seo="true" ref="gallery"/>
+    <file name="malaysia 7138x83.jpg" crc="3793626703" seo="true" ref="gallery"/>
+    <file name="malaysia 8138x83.png" crc="4074776984" seo="true" ref="gallery"/>
+    <file name="malaysia 9138x83.jpg" crc="3903993642" seo="true" ref="gallery"/>
+    <file name="main menu.jpg" crc="9965367" seo="true" ref="gallery"/>
+    <file name="mode select.jpg" crc="4138388393" seo="true" ref="gallery"/>
+    <file name="edit mode.jpg" crc="4009912283" seo="true" ref="gallery"/>
+    <file name="car - qpr 1.jpg" crc="4057581233" seo="true" ref="gallery"/>
+    <file name="car - qpr 2.jpg" crc="304091273" seo="true" ref="gallery"/>
+    <file name="car - qpr 3.jpg" crc="4093926535" seo="true" ref="gallery"/>
+    <file name="car - qpr 4.png" crc="111654407" seo="true" ref="gallery"/>
+    <file name="car - qpr 5.jpg" crc="3874296568" seo="true" ref="gallery"/>
+    <file name="car - qpr 6.jpg" crc="3857516815" seo="true" ref="gallery"/>
+    <file name="car - qpr 7.jpg" crc="3900733890" seo="true" ref="gallery"/>
+    <file name="car - qpr 8.jpg" crc="4011937787" seo="true" ref="gallery"/>
+    <file name="mas - esp 1.jpg" crc="39418655" seo="true" ref="gallery"/>
+    <file name="mas - esp 2.jpg" crc="122550235" seo="true" ref="gallery"/>
+    <file name="mas - esp 3.png" crc="126588042" seo="true" ref="gallery"/>
+    <file name="mas - esp 4.jpg" crc="297543526" seo="true" ref="gallery"/>
+    <file name="mas - esp 5.jpg" crc="260201968" seo="true" ref="gallery"/>
+    <file name="mas - esp 6.jpg" crc="4240551639" seo="true" ref="gallery"/>
+    <file name="mas - esp 7.jpg" crc="4168589734" seo="true" ref="gallery"/>
+    <file name="prk - jdt 1.jpg" crc="4117203443" seo="true" ref="gallery"/>
+    <file name="prk - jdt 2.jpg" crc="260657658" seo="true" ref="gallery"/>
+    <file name="prk - jdt 3.png" crc="511674526" seo="true" ref="gallery"/>
+    <file name="prk - jdt 4.jpg" crc="282586153" seo="true" ref="gallery"/>
+    <file name="prk - jdt 5.jpg" crc="146150420" seo="true" ref="gallery"/>
+    <file name="prk - jdt 6.jpg" crc="3789274706" seo="true" ref="gallery"/>
+    <file name="prk - jdt 7.jpg" crc="4208606832" seo="true" ref="gallery"/>
+    <file name="prk - jdt 8.jpg" crc="3932084489" seo="true" ref="gallery"/>
+    <file name="n - argentina.jpg" crc="4196550815" seo="true" ref="gallery"/>
+    <file name="n - brazil.jpg" crc="3774784780" seo="true" ref="gallery"/>
+    <file name="n - england.jpg" crc="4212213843" seo="true" ref="gallery"/>
+    <file name="n - germany.png" crc="4287118307" seo="true" ref="gallery"/>
+    <file name="n - italy.jpg" crc="149809170" seo="true" ref="gallery"/>
+    <file name="n - netherlands.jpg" crc="3869166325" seo="true" ref="gallery"/>
+    <file name="n - portugal.png" crc="401416526" seo="true" ref="gallery"/>
+    <file name="n - spain.jpg" crc="112739539" seo="true" ref="gallery"/>
+    <file name="c - barcelona.jpg" crc="61586034" seo="true" ref="gallery"/>
+    <file name="c - chelsea.jpg" crc="4084511" seo="true" ref="gallery"/>
+    <file name="c - liverpool.jpg" crc="177341365" seo="true" ref="gallery"/>
+    <file name="c - manchester city.jpg" crc="3851335104" seo="true" ref="gallery"/>
+    <file name="c - manchester united.jpg" crc="535147727" seo="true" ref="gallery"/>
+    <file name="c - real madrid.jpg" crc="3837623031" seo="true" ref="gallery"/>
+    <file name="c - roma.jpg" crc="4066528045" seo="true" ref="gallery"/>
+    <file name="malaysia 1.jpg" crc="320018081" seo="true" ref="gallery"/>
+    <file name="malaysia 2.jpg" crc="3978553113" seo="true" ref="gallery"/>
+    <file name="malaysia 3.jpg" crc="4132425034" seo="true" ref="gallery"/>
+    <file name="malaysia 4.jpg" crc="418893376" seo="true" ref="gallery"/>
+    <file name="malaysia 5.jpg" crc="3995879252" seo="true" ref="gallery"/>
+    <file name="malaysia 6.jpg" crc="487974547" seo="true" ref="gallery"/>
+    <file name="malaysia 7.jpg" crc="4122794441" seo="true" ref="gallery"/>
+    <file name="malaysia 8.png" crc="4094305255" seo="true" ref="gallery"/>
+    <file name="malaysia 9.jpg" crc="475052773" seo="true" ref="gallery"/>
+    <file name="facebook-u4750.png" crc="495502669" ref="gallery"/>
+    <file name="facebook-u4750-m.png" crc="30388035" ref="gallery"/>
+    <file name="google--u4751.png" crc="513433045" ref="gallery"/>
+    <file name="google--u4751-m.png" crc="4075918298" ref="gallery"/>
+    <file name="twitter-u4752.png" crc="4194185793" ref="gallery"/>
+    <file name="twitter-u4752-m.png" crc="4239516946" ref="gallery"/>
+    <file name="u682-4.png" crc="320227826" ref="user-interface"/>
+    <file name="main menu old.png" crc="4237146241" ref="user-interface"/>
+    <file name="main menu pes 2015.jpg" crc="4274212354" ref="user-interface"/>
+    <file name="main menu new.png" crc="78294869" ref="user-interface"/>
+    <file name="game graphic studio2.png" crc="237817743" ref="user-interface"/>
+    <file name="u1482-6.png" crc="3801759494" ref="user-interface"/>
+    <file name="facebook-u4544.png" crc="495502669" ref="user-interface"/>
+    <file name="facebook-u4544-m.png" crc="30388035" ref="user-interface"/>
+    <file name="google--u4545.png" crc="513433045" ref="user-interface"/>
+    <file name="google--u4545-m.png" crc="4075918298" ref="user-interface"/>
+    <file name="twitter-u4546.png" crc="4194185793" ref="user-interface"/>
+    <file name="twitter-u4546-m.png" crc="4239516946" ref="user-interface"/>
+    <file name="u1317-4.png" crc="3826352387" ref="stadium-adboard"/>
+    <file name="adboard old.png" crc="13110104" ref="stadium-adboard"/>
+    <file name="texture old.png" crc="4241254980" ref="stadium-adboard"/>
+    <file name="adboard new.png" crc="3776635867" ref="stadium-adboard"/>
+    <file name="u1369-6.png" crc="3930173428" ref="stadium-adboard"/>
+    <file name="facebook-u4552.png" crc="495502669" ref="stadium-adboard"/>
+    <file name="facebook-u4552-m.png" crc="30388035" ref="stadium-adboard"/>
+    <file name="google--u4553.png" crc="513433045" ref="stadium-adboard"/>
+    <file name="google--u4553-m.png" crc="4075918298" ref="stadium-adboard"/>
+    <file name="twitter-u4554.png" crc="4194185793" ref="stadium-adboard"/>
+    <file name="twitter-u4554-m.png" crc="4239516946" ref="stadium-adboard"/>
+    <file name="u1391-4.png" crc="3798074118" ref="shirt-design"/>
+    <file name="kit old.png" crc="4093834926" ref="shirt-design"/>
+    <file name="kit new.png" crc="501747335" ref="shirt-design"/>
+    <file name="kitserver kit format.png" crc="112477375" ref="shirt-design"/>
+    <file name="kload scripting.png" crc="3801770647" ref="shirt-design"/>
+    <file name="u1404-6.png" crc="3930173428" ref="shirt-design"/>
+    <file name="facebook-u4560.png" crc="495502669" ref="shirt-design"/>
+    <file name="facebook-u4560-m.png" crc="30388035" ref="shirt-design"/>
+    <file name="google--u4561.png" crc="513433045" ref="shirt-design"/>
+    <file name="google--u4561-m.png" crc="4075918298" ref="shirt-design"/>
+    <file name="twitter-u4562.png" crc="4194185793" ref="shirt-design"/>
+    <file name="twitter-u4562-m.png" crc="4239516946" ref="shirt-design"/>
+    <file name="u1642-4.png" crc="330387871" ref="local-football"/>
+    <file name="first title.png" crc="358412814" ref="local-football"/>
+    <file name="malaysia football team.png" crc="4236891392" ref="local-football"/>
+    <file name="malaysia super league.png" crc="4179667692" ref="local-football"/>
+    <file name="malaysian player.png" crc="347028877" ref="local-football"/>
+    <file name="u1655-6.png" crc="3801759494" ref="local-football"/>
+    <file name="facebook-u4576.png" crc="495502669" ref="local-football"/>
+    <file name="facebook-u4576-m.png" crc="30388035" ref="local-football"/>
+    <file name="google--u4577.png" crc="513433045" ref="local-football"/>
+    <file name="google--u4577-m.png" crc="4075918298" ref="local-football"/>
+    <file name="twitter-u4578.png" crc="4194185793" ref="local-football"/>
+    <file name="twitter-u4578-m.png" crc="4239516946" ref="local-football"/>
+    <file name="u1708-4.png" crc="406362771" ref="graphic-editing"/>
+    <file name="banner.jpg" crc="3785119741" ref="graphic-editing"/>
+    <file name="matrix card.png" crc="142037048" ref="graphic-editing"/>
+    <file name="fit online logo.png" crc="532631471" ref="graphic-editing"/>
+    <file name="u1717-6.png" crc="3801759494" ref="graphic-editing"/>
+    <file name="facebook-u4584.png" crc="495502669" ref="graphic-editing"/>
+    <file name="facebook-u4584-m.png" crc="30388035" ref="graphic-editing"/>
+    <file name="google--u4585.png" crc="513433045" ref="graphic-editing"/>
+    <file name="google--u4585-m.png" crc="4075918298" ref="graphic-editing"/>
+    <file name="twitter-u4586.png" crc="4194185793" ref="graphic-editing"/>
+    <file name="twitter-u4586-m.png" crc="4239516946" ref="graphic-editing"/>
+  </folder>
+  <file name="index.html" crc="4258021085" seo="true" mt="1452344102661" redirect="true"/>
+  <file name="about-me.html" crc="333616417" seo="true" mt="1451910835320" redirect="true"/>
+  <file name="my-hobby.html" crc="307425010" seo="true" mt="1451911970099" redirect="true"/>
+  <file name="features.html" crc="4186760519" seo="true" mt="1451910065590" redirect="true"/>
+  <file name="gallery.html" crc="107212648" seo="true" mt="1451910350176" redirect="true"/>
+  <file name="user-interface.html" crc="264979024" seo="true" mt="1451911970100" redirect="true"/>
+  <file name="stadium-adboard.html" crc="173661038" seo="true" mt="1451911970102" redirect="true"/>
+  <file name="shirt-design.html" crc="226561417" seo="true" mt="1451911970104" redirect="true"/>
+  <file name="local-football.html" crc="388200767" seo="true" mt="1451911982326" redirect="true"/>
+  <file name="graphic-editing.html" crc="423783857" seo="true" mt="1451910107950" redirect="true"/>
+</manifest>
