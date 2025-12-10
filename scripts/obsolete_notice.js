@@ -10,32 +10,40 @@ document.addEventListener('DOMContentLoaded', function() {
             showCancelButton: false,
             focusConfirm: false,
             confirmButtonText: `I Understand`,
-            cancelButtonText: `Visit Current Website <i class="fa fa-external-link"></i>`,
-            footer: '© 2015&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fa fa-external-link"></i></a>. All rights reserved.',
-            confirmButtonColor: "#660099",
-            cancelButtonColor: "#09000E",
             allowOutsideClick: false,
             allowEscapeKey: false,
             allowEnterKey: false,
+            confirmButtonColor: "#660099",
+            didOpen: () => {
+                // Apply colors to title, html content, and footer
+                const swalTitle = Swal.getTitle();
+                const swalHtml = Swal.getHtmlContainer();
+                const swalFooter = Swal.getFooter();
+
+                if (swalTitle) swalTitle.style.color = "#09000E";
+                if (swalHtml) swalHtml.style.color = "#09000E";
+                if (swalFooter) swalFooter.style.color = "#09000E";
+            }
         }).then((result) => {
             if (result.isConfirmed) {
                 popupOpen = false;
-            } else if (result.dismiss === Swal.DismissReason.cancel) {
-                window.open("https://fitri.my/", "noopener,noreferrer");
             }
         });
+
         popupOpen = true;
     }
+
     window.addEventListener('blur', function() {
         if (popupOpen) {
             Swal.close();
         }
     });
+
     window.addEventListener('focus', function() {
         if (popupOpen) {
             openPopup();
         }
     });
-    openPopup();
 
+    openPopup();
 });
