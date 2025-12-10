@@ -7,16 +7,22 @@ document.addEventListener('DOMContentLoaded', function() {
             icon: "info",
             iconColor: "#FFC107",
             html: `<br>You are viewing an archived project.<br>Content and design may be outdated and<br>is no longer affiliated with the original entity.`,
-            footer: 'Copyright © 2015&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer">Mohd Fitri Zulkaffli</a>',
             showCancelButton: false,
             focusConfirm: false,
             confirmButtonText: `I Understand`,
+            cancelButtonText: `Visit Current Website <i class="fa fa-external-link"></i>`,
+            footer: 'Copyright © 2015&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fa fa-external-link"></i></a>',
+            confirmButtonColor: "#660099",
+            cancelButtonColor: "#09000E",
             allowOutsideClick: false,
             allowEscapeKey: false,
             allowEnterKey: false,
-            confirmButtonColor: "#660099",
+            customClass: {
+                title: 'swal-title',
+                htmlContainer: 'swal-html',
+                footer: 'swal-footer'
+            },
             didOpen: () => {
-                // Apply colors to title, html content, and footer
                 const swalTitle = Swal.getTitle();
                 const swalHtml = Swal.getHtmlContainer();
                 const swalFooter = Swal.getFooter();
@@ -28,9 +34,10 @@ document.addEventListener('DOMContentLoaded', function() {
         }).then((result) => {
             if (result.isConfirmed) {
                 popupOpen = false;
+            } else if (result.dismiss === Swal.DismissReason.cancel) {
+                window.open("https://fitri.my/", "noopener,noreferrer,nofollow");
             }
         });
-
         popupOpen = true;
     }
 
