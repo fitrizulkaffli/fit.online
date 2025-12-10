@@ -3,17 +3,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
     function openPopup() {
         Swal.fire({
-            title: "This Website is Obsolete",
+            title: "Archived Notice",
             icon: "info",
             iconColor: "#FFC107",
-            html: `<br>This website is outdated and has been archived.<br>It no longer reflects the current activities<br>or updates of its owner.`,
-            showCancelButton: true,
+            html: `<br>You are viewing an archived project.<br>Content and design may be outdated and<br>is no longer affiliated with the original entity.`,
+            showCancelButton: false,
             focusConfirm: false,
             confirmButtonText: `I Understand`,
             cancelButtonText: `Visit Current Website <i class="fa fa-external-link"></i>`,
-            footer: 'Another website design by Mohd Fitri Zulkaffli',
-            confirmButtonColor: "#2A52BE",
-            cancelButtonColor: "#24252B",
+            footer: '© 2015&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer" class="custom-footer-link">Mohd Fitri Zulkaffli <i class="fa fa-external-link"></i></a>. All rights reserved.',
+            confirmButtonColor: "#660099",
+            cancelButtonColor: "#09000E",
             allowOutsideClick: false,
             allowEscapeKey: false,
             allowEnterKey: false,
@@ -37,4 +37,5 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
     openPopup();
+
 });
