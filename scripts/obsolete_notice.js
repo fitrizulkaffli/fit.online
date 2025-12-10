@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             icon: "info",
             iconColor: "#FFC107",
             html: `<br>You are viewing an archived project.<br>Content and design may be outdated and<br>is no longer affiliated with the original entity.`,
+            footer: 'Copyright © 2015&nbsp;<a href="https://fitri.my" target="_blank" rel="noopener noreferrer">Mohd Fitri Zulkaffli</a>',
             showCancelButton: false,
             focusConfirm: false,
             confirmButtonText: `I Understand`,
